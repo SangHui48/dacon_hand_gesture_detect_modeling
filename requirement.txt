@@ -7,3 +7,5 @@ library:
     opencv
     tqdm
     tensorflow
+    matplotlib
+    seaborn
