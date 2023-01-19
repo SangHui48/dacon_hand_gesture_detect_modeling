@@ -1,0 +1,9 @@
+os: macos(m1max)
+library:
+    pandas
+    numpy
+    sklearn
+    albumentations
+    opencv
+    tqdm
+    tensorflow
