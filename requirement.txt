@@ -9,3 +9,4 @@ library:
     tensorflow
     matplotlib
     seaborn
+    tensorflow-addons # macro-f1 score
